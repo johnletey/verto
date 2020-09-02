@@ -51,7 +51,7 @@
 <About>
   <h1 class="title">Get in Touch</h1>
   <p class="about-description">
-    Have a question or are interested in purchasing more VRT than you can find on the exchange? Join our <a href="https://discord.gg/sNgJkMg">Discord</a>. Let's chat!
+    Have a question or are interested in purchasing more VRT than you can find on the exchange? Join our <a href="chat">Discord</a>. Let's chat!
   </p>
 </About>
 <Footer />

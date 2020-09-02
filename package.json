@@ -4,7 +4,7 @@
   "scripts": {
     "dev": "sapper dev",
     "build": "sapper build --legacy",
-    "export": "sapper export --legacy --entry '/ trade tokens post login gallery app 404 app/all-exchanges app/all-transactions'",
+    "export": "sapper export --legacy --entry '/ 404'",
     "validate": "svelte-check",
     "start": "node __sapper__/build",
     "cy:run": "cypress run",

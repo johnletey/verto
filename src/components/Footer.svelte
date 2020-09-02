@@ -21,10 +21,10 @@
     <div class="Footer" in:fade={{ duration: 1100, delay: 411, easing: backOut }}>
       <div class="FooterContent">
         <div>
-          <a href="trade">trade</a>
+          <a href="chat">chat</a>
         </div>
         <div>
-          <a href="https://github.com/useverto/verto">code</a>
+          <a href="git">code</a>
         </div>
         <div>
           <a href="https://www.arweave.org/">arweave</a>
