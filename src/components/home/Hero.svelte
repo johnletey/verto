@@ -28,12 +28,12 @@
 
   .Hero
     height: 100vh
-    overflow-x: hidden
+    overflow: hidden
     position: relative
     top: 0
     left: 0
     right: 0
-    margin-bottom: 5vh
+    padding-bottom: 5vh
 
     .content
       z-index: 10
